@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://kit.fontawesome.com/e76003d072.js" crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+   
+</head>
+<body>
+    <p>Volver al menu <a href="./index.html"><i class="fa-solid fa-arrow-left"></i></a></p>
+
+    <section>
+        <h2>Sorbete De Plátano y Mango</h2>
+        <ul><li>Ingredientes</li>
+            <li>Paso a Paso</li>
+            <li>Resultado Final</li>
+            </ul>
+        <h2><u>Ingredientes:</u></h2>
+        <hr>
+      <strong><ul>
+            <li>1/2 kg de plátano</li>                   
+            <li>2 mangos grandes</li>
+            <li>Azúcar</li>
+            <li>Aceite de coco</li>
+            <li>Hoja de menta</li>
+            
+        
+        </ul></strong>
+    <hr>
+        <h2>Paso a Paso </h2>
+        <ol>
+            <li>Toma los plátanos y retira tosa la piel; una vez que estén listos, procede a córtalos en rebanadas.</li>
+            <img width="100px" height="100px"  src="./Imagenes/Fotos Recetas Paso a Paso/Sorbete/Paso1.png" alt="paso1">
+            
+            <br>
+            <li>Lava muy bien los mangos y retira la piel del mismo con un cuchillo.</li>
+            <img width="100px" height="100px" src="./Imagenes/Fotos Recetas Paso a Paso/Sorbete/Paso 2.png" alt="paso2">
+            <br>
+            <li>Una vez que estén listos, se corta en cuadros.</li>
+            <img width="100px" height="100px"src="./Imagenes/Fotos Recetas Paso a Paso/Sorbete/Paso 3.png" alt="paso3">
+            <br>
+            <li>luego se colocan las frutas en bolsas plásticas y se lleva al refrigerador para que se congelen.</li>
+            <img width="100px" height="100px" src="./Imagenes/Fotos Recetas Paso a Paso/Sorbete/Paso 4.png" alt="paso4">
+            <br>
+            <li>Para procesar las frutas y crear esta rica receta, puedes utilizar la licuadora o cualquier ayudante de cocina que te permita granizar las frutas congeladas.</li>
+            <img width="100px" height="100px"src="./Imagenes/Fotos Recetas Paso a Paso/Sorbete/Paso 5.png" alt="paso5">
+            <br>
+            <li>En la Licuadora, coloca los plátanos y el mango congelados, agrega una taza de azúcar y dos cucharadas de aceite de coco.</li>
+            <img width="100px" height="200px"src="./Imagenes/Fotos Recetas Paso a Paso/Sorbete/Paso 6.png" alt="paso6">
+            <br>
+            <li>Licua en velocidad media; entre intervalos de tiempo cortos, para ir integrando las frutas.</li>
+            <img width="100px" height="100px"  src="./Imagenes/Fotos Recetas Paso a Paso/Sorbete/Paso 7.png" alt="paso7">
+            <br>
+            <li>Sirve el sorbete de mango y plátano en una copa, puedes decorarlo con hojas de menta.</li>
+            <img width="100px" height="100px"  src="./Imagenes/Fotos Recetas Paso a Paso/Sorbete/Paso 9.png" alt="paso8">
+  </ol>
+        <hr>
+    </section>
+    <h2>Resultado Final</h2>
+    <img width= "500px" height="400 px" src="./Imagenes/Fotos Receta/Sorbete Final.jpg" alt="Sorbete Final"> 
+    <hr>
+</body>
+</html>

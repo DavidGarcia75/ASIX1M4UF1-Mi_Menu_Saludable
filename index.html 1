@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://kit.fontawesome.com/e76003d072.js" crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   
+</head>
+<body>
+    <p>Volver al menu <a href="./index.html"><i class="fa-solid fa-arrow-left"></i></a></p>
+
+    <section >
+        <h2 id="Berenjena">Berenjenas Rellenas</h2>
+        <ul><li>Ingredientes</li>
+            <li>Paso a Paso</li>
+            <li>Resultado Final</li>
+            </ul>
+            <br>
+       <h2><u>Ingredientes</u></h2>
+        <hr>
+       <strong><ul>
+            <li>2 Berenjenas</li>                   
+            <li>2 Cebolletas</li>
+            <li>100 g de queso de cabra</li>
+            <li>1/2 de aceite de oliva</li>
+            <li>Perejil</li>
+            <li>200g de carne</li>
+            <li>4 tomates pera </li>
+            <li>1 pastilla de caldo</li>
+            <li>sal y pimienta</li>
+        
+        </ul></strong>
+    <hr>
+        <h2>Paso a Paso </h2>
+        <ol>
+            <li>Precalienta el horno a <strong>190ºC.</strong> Lava los tomates, colócalos en una fuente pequeña apta para el horno. Rocíalos con aceite, cubre la fuente con papel de aluminio y ásalos en el horno a <strong>190ºC</strong> C grados durante <strong>20 minutos.</strong> Retira, pela, pica y resérvalos.</li>
+            <img width="100px" height="100px" src="/Imagenes/Fotos Recetas Paso a Paso/Berenjena/Paso 1 Brenjena.webp" alt="Paso1">
+            <br>
+
+            <li>Lava las berenjenas, córtalas por la mitad a lo largo. Con una puntilla repasa el contorno de cada mitad y realiza unos cortes en forma de rombo en la carne. Vacíalas y reserva por un lado la carne de las berenjenas y por otro las berenjenas vaciadas. Pon agua a calentar en una cazuela grande. Sazona. Cuando empiece a hervir, introduce las cáscaras de las berenjenas y cuécelas durante <strong>12 minutos</strong>. Una vez cocidas, escúrrelas en una fuente forrada con papel absorbente.</li>
+            <img width="200px" height="100px" src="./Imagenes/Fotos Recetas Paso a Paso/Berenjena/Paso 2 Berenjena.png" alt="Paso2">
+            <br>
+
+            <li>Pela y pica las cebolletas en daditos y rehógalas a fuego suave en una sartén con un chorrito de aceite. Cuando estén pochadas, añade la carne de las berenjenas (picada). Pocha bien todo.</li>
+            <img width="200px" height="100px" src="./Imagenes/Fotos Recetas Paso a Paso/Berenjena/Paso 3 Berenjena.png" alt="Paso2">
+            <br>
+
+            <li>Salpimienta la carne de pavo y agrégala. Añade también el orégano y mezcla bien. Desmenuza (con los dedos) encima la pastilla de caldo de pollo. Finalmente añade los tomates y cocina todo conjuntamente durante <strong>5 minutos.</strong></li>
+            <img width="200px" height="100px" src="./Imagenes/Fotos Recetas Paso a Paso/Berenjena/Paso 4 Berenjena.png" alt="Paso4">
+            <br>
+            <li>Trocea el queso de cabra en dados y mézclalos con el resto de ingredientes. Rellena las cáscaras de las berenjenas y colócalas en una bandeja apta para horno. <strong>Hornéalas a 200º C</strong>, <strong>durante 4-5 minutos</strong>. Sirve y adorna con unas hojas de perejil.</li>
+            <img width="200px" height="100px" src="./Imagenes/Fotos Recetas Paso a Paso/Berenjena/Paso 5 Berenjena.png" alt="Paso5">
+  </ol>         
+        <hr>
+    </section>
+    <h2>Resultado Final</h2>
+    <img width= "500px" height="300 px" src="./Imagenes/Fotos Receta/Berenjena Final.jpg" alt="Berenjena Resultado Final"> 
+    <hr>
+    <a href="#Berenjena">Volver a Inicio</a>
+</body>
+</html>
