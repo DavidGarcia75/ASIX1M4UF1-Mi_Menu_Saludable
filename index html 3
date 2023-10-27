@@ -13,11 +13,11 @@
 
     <section>
         <h2>Sorbete De Plátano y Mango</h2>
-        <ul><li>Ingredientes</li>
-            <li>Paso a Paso</li>
-            <li>Resultado Final</li>
+        <ul><li><a href="#Ingredientes3">Ingredientes</a></li>
+            <li><a href="#Paso3">Paso a Paso</a></li>
+            <li><a href="#Final3">Resultado Final</a></li>
             </ul>
-        <h2><u>Ingredientes:</u></h2>
+        <h2 id="Ingredientes3"><u>Ingredientes:</u></h2>
         <hr>
       <strong><ul>
             <li>1/2 kg de plátano</li>                   
@@ -29,7 +29,7 @@
         
         </ul></strong>
     <hr>
-        <h2>Paso a Paso </h2>
+        <h2 id="Paso3">Paso a Paso </h2>
         <ol>
             <li>Toma los plátanos y retira tosa la piel; una vez que estén listos, procede a córtalos en rebanadas.</li>
             <img width="100px" height="100px"  src="./Imagenes/Fotos Recetas Paso a Paso/Sorbete/Paso1.png" alt="paso1">
@@ -58,7 +58,7 @@
   </ol>
         <hr>
     </section>
-    <h2>Resultado Final</h2>
+    <h2 id="Final3">Resultado Final</h2>
     <img width= "500px" height="400 px" src="./Imagenes/Fotos Receta/Sorbete Final.jpg" alt="Sorbete Final"> 
     <hr>
 </body>

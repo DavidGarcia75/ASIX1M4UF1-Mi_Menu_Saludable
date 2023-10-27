@@ -13,11 +13,11 @@
 
     <section>
         <h2 id="CremaPuerros">Crema de Puerros y Guisantes</h2>
-        <ul><li>Ingredientes</li>
-            <li>Paso a Paso</li>
-            <li>Resultado Final</li>
+        <ul><li><a href="#Ingredientes2">Ingredientes</a></li>
+            <li><a href="#Paso2">Paso a Paso</a></li>
+            <li><a href="#Final2">Resultado Final</a></li>
             </ul>
-        <h2><u>Ingredientes:</u></h2>
+        <h2 id="Ingredientes2"><u>Ingredientes:</u></h2>
         <hr>
         <strong><ul>
             <li>200 gramos de guisantes</li>                   
@@ -32,30 +32,30 @@
         
         </ul></strong>
     <hr>
-        <h2>Paso a Paso </h2>
+        <h2 id="Paso2">Paso a Paso </h2>
         <ol>
             <li>Retira la capa exterior del puerro y reserva la parte verde para la decoración final. Parte la otra por la mitad a lo largo y lávala bien para eliminar los restos de tierra. Luego, escurre y corta en rodajas. Pela el ajo y la cebolla tierna y córtalas en rodajas. Pela las patatas y trocéalas.</li>
-            <img src="" alt="">
+            <img width="100px" height="100px"src="./Imagenes/Fotos Recetas Paso a Paso/Pure/Paso1.png" alt="Paso1">
             <br>
             <li>Calienta en una olla <strong>2 cucharadas</strong> de aceite de oliva y rehoga 2 minutos todas las verduras, incluidos los guisantes. Añade el caldo y deja cocer a fuego medio durante unos 15 minutos.</li>
-            <img src="" alt="">
+            <img width="100px" height="100px" src="./Imagenes/Fotos Recetas Paso a Paso/Pure/Paso 2.png" alt="Paso2">
             <br>
             <li>Mientras cueces las verduras, pon un cazo con agua al fuego y cuece los huevos de codorniz durante 2 minutos, a partir de que el agua empiece a hervir. Pasado este tiempo, retíralos del cazo, enfríalos con agua fría y pélalos.</li>
-            <img src="" alt="">
+            <img width="100px" height="100px"src="./Imagenes/Fotos Recetas Paso a Paso/Pure/Paso 3.png" alt="Paso3">
             <br>
             <li>Lava la parte verde del puerro que habías reservado y córtala en tiras muy finas. Fríelas en aceite de oliva a <strong>170º</strong> hasta que queden bien crujientes, déjalas escurrir sobre papel de cocina y resérvalas.</li>
-            <img src="" alt="">
+            <img width="100px" height="100px"src="./Imagenes/Fotos Recetas Paso a Paso/Pure/Paso4.png" alt="Paso4">
             <br>
             <li>Condimenta las verduras con sal, pimienta recién molida y, para dar frescor, añade unas hojitas de albahaca. Vierte la nata y deja cocer <strong>5 minutos más.</strong> Aparta del fuego y tritura bien hasta conseguir una textura bien fina.</li>
-            <img src="" alt="">
+            <img width="100px" height="100px"src="./Imagenes/Fotos Recetas Paso a Paso/Pure/paso5.png" alt="Paso5">
             <br>
             <li>Dispón la crema caliente en unos cuencos o platos de servicio y decora con unos hilos de nata, los huevos de codorniz cocidos partidos en mitades, unas hojitas de albahaca y el puerro frito.</li>
-            <img src="" alt="">
+            <img width="100px" height="100px"src="./Imagenes/Fotos Recetas Paso a Paso/Pure/Paso6.png" alt="Paso6">
     
   </ol>
         <hr>
     </section>
-    <h2>Resultado Final</h2>
+    <h2 id="Final2">Resultado Final</h2>
     <img width= "500px" height="400 px" src="./Imagenes/Fotos Receta/Crema Final.jpg" alt="Crema Final"> 
     <hr>
     <a href="#CremaPuerros">Volver a Inicio</a>

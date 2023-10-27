@@ -11,13 +11,13 @@
     <p>Volver al menu <a href="./index.html"><i class="fa-solid fa-arrow-left"></i></a></p>
 
     <section >
-        <h2 id="Berenjena">Berenjenas Rellenas</h2>
-        <ul><li>Ingredientes</li>
-            <li>Paso a Paso</li>
-            <li>Resultado Final</li>
+        <h2 id="Berenjenas"><u>Inicio</u></h2>
+        <ul><li><a href="#Ingredientes">Ingredientes</a></li>
+            <li><a href="#Paso">Paso a Paso</a></li>
+            <li><a href="#Final">Final</a></li>
             </ul>
             <br>
-       <h2><u>Ingredientes</u></h2>
+       <h2 id="Ingredientes"><u>Ingredientes</u></h2>
         <hr>
        <strong><ul>
             <li>2 Berenjenas</li>                   
@@ -32,7 +32,7 @@
         
         </ul></strong>
     <hr>
-        <h2>Paso a Paso </h2>
+        <h2 id="Paso"><u>Paso a Paso</u> </h2>
         <ol>
             <li>Precalienta el horno a <strong>190ºC.</strong> Lava los tomates, colócalos en una fuente pequeña apta para el horno. Rocíalos con aceite, cubre la fuente con papel de aluminio y ásalos en el horno a <strong>190ºC</strong> C grados durante <strong>20 minutos.</strong> Retira, pela, pica y resérvalos.</li>
             <img width="100px" height="100px" src="/Imagenes/Fotos Recetas Paso a Paso/Berenjena/Paso 1 Brenjena.webp" alt="Paso1">
@@ -54,9 +54,9 @@
   </ol>         
         <hr>
     </section>
-    <h2>Resultado Final</h2>
+    <h2 id="Final">Resultado Final</h2>
     <img width= "500px" height="300 px" src="./Imagenes/Fotos Receta/Berenjena Final.jpg" alt="Berenjena Resultado Final"> 
     <hr>
-    <a href="#Berenjena">Volver a Inicio</a>
+    <a href="#Berenjenas">Volver a Inicio</a>
 </body>
 </html>
