@@ -12,7 +12,7 @@
     <p>Volver al menu <a href="./index.html"><i class="fa-solid fa-arrow-left"></i></a></p>
 
     <section>
-        <h2>Sorbete De Plátano y Mango</h2>
+        <h2 id="Sorbete3">Sorbete De Plátano y Mango</h2>
         <ul><li><a href="#Ingredientes3">Ingredientes</a></li>
             <li><a href="#Paso3">Paso a Paso</a></li>
             <li><a href="#Final3">Resultado Final</a></li>
@@ -61,5 +61,6 @@
     <h2 id="Final3">Resultado Final</h2>
     <img width= "500px" height="400 px" src="./Imagenes/Fotos Receta/Sorbete Final.jpg" alt="Sorbete Final"> 
     <hr>
+    <a href="#Sorbete3">Volver a Inicio</a>
 </body>
 </html>
